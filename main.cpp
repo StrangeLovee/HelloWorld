@@ -21,6 +21,7 @@ void sort(int arr[], int size)
 
 int main()
 {
+	//Mark1
 	int arr[] = {12, 4, 89, 43, 21, 78};
 	int size = sizeof(arr)/sizeof(arr[0]);
 	
